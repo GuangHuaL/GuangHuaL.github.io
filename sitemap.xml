@@ -2,27 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://guanghual.github.io/2024/02/06/onlyfans-payment/</loc>
-    
-    <lastmod>2024-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guanghual.github.io/2024/02/06/how-to-pay-onlyfans/</loc>
-    
-    <lastmod>2024-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guanghual.github.io/2024/02/07/wechat/</loc>
     
-    <lastmod>2024-02-24</lastmod>
+    <lastmod>2024-02-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +13,25 @@
   <url>
     <loc>https://guanghual.github.io/2024/02/05/openai-registration/</loc>
     
-    <lastmod>2024-02-24</lastmod>
+    <lastmod>2024-02-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guanghual.github.io/2024/02/06/onlyfans-payment/</loc>
+    
+    <lastmod>2024-02-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guanghual.github.io/2024/02/06/how-to-pay-onlyfans/</loc>
+    
+    <lastmod>2024-02-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
   <url>
     <loc>https://guanghual.github.io/2024/02/05/gpt-renewals/</loc>
     
-    <lastmod>2024-02-24</lastmod>
+    <lastmod>2024-02-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,16 @@
   <url>
     <loc>https://guanghual.github.io/2024/02/23/get-card/</loc>
     
-    <lastmod>2024-02-24</lastmod>
+    <lastmod>2024-02-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guanghual.github.io/2024/02/05/chatgpt4/</loc>
+    
+    <lastmod>2024-02-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,14 +67,23 @@
   <url>
     <loc>https://guanghual.github.io/2024/02/05/Free-mail-proton-registration-process/</loc>
     
-    <lastmod>2024-02-24</lastmod>
+    <lastmod>2024-02-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://guanghual.github.io/2024/02/05/chatgpt4/</loc>
+    <loc>https://guanghual.github.io/2024/02/29/microsoft-email/</loc>
+    
+    <lastmod>2024-02-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guanghual.github.io/census/index.html</loc>
     
     <lastmod>2024-02-24</lastmod>
     
@@ -85,7 +103,7 @@
 
   <url>
     <loc>https://guanghual.github.io/</loc>
-    <lastmod>2024-02-24</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,7 +111,7 @@
   
   <url>
     <loc>https://guanghual.github.io/tags/%E5%8E%9F%E5%88%9B/</loc>
-    <lastmod>2024-02-24</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -102,28 +120,35 @@
   
   <url>
     <loc>https://guanghual.github.io/categories/ChatGPT4/</loc>
-    <lastmod>2024-02-24</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guanghual.github.io/categories/Onlyfans/</loc>
-    <lastmod>2024-02-24</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guanghual.github.io/categories/wechat/</loc>
-    <lastmod>2024-02-24</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guanghual.github.io/categories/wildcard/</loc>
-    <lastmod>2024-02-24</lastmod>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://guanghual.github.io/categories/wechat/ChatGPT4/</loc>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
